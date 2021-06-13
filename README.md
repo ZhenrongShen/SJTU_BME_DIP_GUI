@@ -45,8 +45,11 @@ Just run `python3 MainWindow.py`
     -  Try to apply fast operations in case
 - **Project 6**  
   - Write code to realize the next functions:
-  - Morphological edge detection
-  - Morphological Reconstruction
-    - Conditional dilation in binary image
-    - Gray scale Reconstruction
-  - Morphological gradient
+    - Morphological edge detection
+    - Morphological Reconstruction
+      - Conditional dilation in binary image
+      - Gray scale Reconstruction
+    - Morphological gradient
+  - Requirement:
+    - Design your own UI and display I/O images
+    -  Try to apply fast operations in case
