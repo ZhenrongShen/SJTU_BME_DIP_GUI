@@ -53,3 +53,22 @@ Just run `python3 ./MainWindow.py`
   - Requirement:
     - Design your own UI and display I/O images
     -  Try to apply fast operations in case
+
+# Screenshots
+- **Project 1**
+![project 1](/screenshots/project_1.png "Project 1")
+
+- **Project 2**
+![project 2](/screenshots/project_2.png "Project 2")
+
+- **Project 3**
+![project 3](/screenshots/project_3.png "Project 3")
+
+- **Project 4**
+![project 4](/screenshots/project_4.png "Project 4")
+
+- **Project 5**
+![project 5](/screenshots/project_5.png "Project 5")
+
+- **Project 6**
+![project 6](/screenshots/project_6.png "Project 6")
