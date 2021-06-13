@@ -1,5 +1,5 @@
 # SJTU_BME_DIP_GUI
-A course project for Advanced Biomedical Image Processing (高级生物医学图像处理), School of Biomedical Engineering (生物医学工程学院), Shanghai Jiao Tong University (上海交通大学)
+This is a course project for Advanced Biomedical Image Processing (高级生物医学图像处理), School of Biomedical Engineering (生物医学工程学院), Shanghai Jiao Tong University (上海交通大学). It is required to design a GUI for performing some basic digital image processing algorithms.
 
 # Dependency
 - python3  
@@ -11,7 +11,7 @@ A course project for Advanced Biomedical Image Processing (高级生物医学图
 - pyqtgraph  
 
 # Usage
-Just run `python3 MainWindow.py`
+Just run `python3 ./MainWindow.py`
 
 # Requirements
 - **Project 1**
